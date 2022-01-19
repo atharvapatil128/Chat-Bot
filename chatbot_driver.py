@@ -11,7 +11,7 @@ import requests
 # the Discord Python API
 import discord
 
-# this is my Hugging Face profile link
+# this is the Hugging Face profile link
 API_URL = 'https://api-inference.huggingface.co/models/niharikadeokar/'
 
 class MyClient(discord.Client):
