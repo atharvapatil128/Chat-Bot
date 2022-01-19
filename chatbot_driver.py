@@ -80,7 +80,7 @@ class MyClient(discord.Client):
         
 
 def main():
-    # DialoGPT-small-Jakebot is my model name
+    # DialoGPT-small-Jakebot is our model name
     client = MyClient('DialoGPT-small-Jakebot')
 
     keep_alive()
